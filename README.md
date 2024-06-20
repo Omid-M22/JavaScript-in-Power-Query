@@ -8,7 +8,8 @@ For example, the highlighted row means using eleven 1$ coins to make a total of 
 
 [Challenge code](https://www.linkedin.com/posts/omid-motamedisedeh-74aba166_excelchallenge-powerquerychllenge-excel-activity-7209298915345539073-gXKT?utm_source=share&utm_medium=member_desktop)
 
-
+```
+let
  JavaScript= Web.Page(
         "<script>
             var output = '{';
